@@ -25,7 +25,7 @@
 git clone https://github.com/Avocado-StudyGroup/zero-waste.git
 cd zero-waste
 pnpm install
-npm dev
+pnpm dev
 ```
 
 <br/>
